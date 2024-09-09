@@ -3,7 +3,7 @@
 This is the official implementation of ViCo.
 
 <div align="center">
-  <img src="asset/main.png" width="900px" />
+  <img src="asset/model.png" width="900px" />
 </div>
 
 ## Setup
