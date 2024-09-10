@@ -18,7 +18,7 @@ bash setup.sh
 
 ## Dataset & LLaMA Preparation
 
-You can download our preprocessed datasets (NExT-QA, STAR, TVQA and IntentQA) at [here](https://drive.google.com/drive/folders/1ED2VcFSxRW9aFIP2WdGDgLddNTyEVrE5?usp=sharing). Put them in ```./data```. Also, you can download original LLaMA at [here](https://github.com/facebookresearch/llama/tree/llama_v1), and put the checkpoint in ```./pretrained```.
+You can download our preprocessed datasets (NExT-QA, STAR, TVQA and IntentQA) at [here](https://drive.google.com/drive/folders/1zGFJ41qjYULQE3D7AA6LtpaKAKl71qD_?usp=sharing). Put them in ```./data```. Also, you can download original LLaMA at [here](https://github.com/facebookresearch/llama/tree/llama_v1), and put the checkpoint in ```./pretrained```.
 
 ```
 ./pretrained
